@@ -29,7 +29,7 @@ Usage
 
 Run the CLI tool using the following command:
 
-./webcrawler <website_url> <max_depth> <timeout>
+./webcrawler <website_url> <max_concurrent_threads> <max_pages_to_fetch>
 
 ####Example:
 
